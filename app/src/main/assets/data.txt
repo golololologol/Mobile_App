@@ -1,0 +1,10 @@
+Line 1: Apples
+Line 2: Bananas
+Line 3: Cherries
+Line 4: Dates
+Line 5: Elderberries
+Line 6: Figs
+Line 7: Grapes
+Line 8: Honeydew
+Line 9: Indian Fig
+Line 10: Jackfruit

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="home_string">Home</string>
+    <string name="widgets_string">Widgets</string>
+    <string name="data_string">Data</string>
+    <string name="enable_feature">Enable VUM-Finder</string>
+    <string name="vum_coords">43.21213216922771, 27.909251722787033</string>
+    <string name="vum_label">Varna University of Management</string>
+</resources>
